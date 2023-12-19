@@ -116,6 +116,8 @@ By progressing through these levels and applying your knowledge to real-world sc
 
 ---
 
+# Becoming an expert in JavaScript events
+
 Becoming an expert in JavaScript events involves understanding the basics, mastering intermediate techniques, and delving into advanced topics. Here's a step-by-step guide to help you categorize your learning into basic, mid-level, and advanced levels:
 
 ### Basic Level:
