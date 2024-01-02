@@ -10,7 +10,7 @@ tags: web-design, ui-design, graphic-design, ux-design
 
 ---
 
-# Explore Graphic design/UI & UX Design
+# 1.Explore Graphic design/UI & UX Design
 
 Becoming an expert in graphic design is a rewarding journey that involves learning and mastering various skills and tools. Here's a step-by-step guide to help you become proficient in graphic design:
 
@@ -128,6 +128,8 @@ Becoming an expert in graphic design is a rewarding journey that involves learni
 Remember that becoming an expert is a continuous process of learning and refining your skills. Be patient, practice regularly, and stay passionate about design.
 
 ---
+
+# 2.Graphic design principles
 
 Here's a categorization of graphic design principles into 10 basic, 10 mid-level, and 10 advanced-level concepts:
 
@@ -264,7 +266,7 @@ As you progress through these levels, aim to apply and combine these principles 
 
 ---
 
-# UI/UX (User Interface/User Experience) design
+# 3.UI/UX (User Interface/User Experience) design
 
 That's a great progression! UI/UX (User Interface/User Experience) design is a natural extension of graphic design, focusing specifically on creating visually appealing and user-friendly digital interfaces. Here's a step-by-step guide to becoming an expert in UI/UX design after mastering graphic design:
 
@@ -382,7 +384,7 @@ Remember, UI/UX design is a dynamic field, and continuous learning and adaptatio
 
 ---
 
-# UI design topics
+# 4.UI design topics
 
 Here's a categorization of UI design topics into 10 basic, 10 mid-level, and 10 advanced-level concepts:
 
@@ -519,7 +521,7 @@ Remember to practice and apply these concepts in real-world projects to deepen y
 
 ---
 
-# UX design topics
+# 5.UX design topics
 
 Here's a categorization of UX design topics into 10 basic, 10 mid-level, and 10 advanced-level concepts:
 
@@ -656,7 +658,7 @@ As you progress through these levels, apply the concepts in real-world projects,
 
 ---
 
-# UI/UX design apply to both web and app design
+# 6.UI/UX design apply to both web and app design
 
 While many principles of UI/UX design apply to both web and app design, there are some considerations that are specific to each platform. Here's a categorization of UI/UX design considerations for web and app design:
 
