@@ -1,10 +1,10 @@
 ---
-title: "Do you want to become proficient in CSS?"
+title: "Become proficient practically in CSS?"
 seoTitle: "Do you want to become proficient in CSS?"
 seoDescription: "CSS, or Cascading Style Sheets, is a stylesheet language used to describe the presentation and formatting of a document written in HTML or XML. In web"
 datePublished: Wed Dec 20 2023 01:36:44 GMT+0000 (Coordinated Universal Time)
 cuid: clqd3s9sk000008id4jg75qh6
-slug: do-you-want-to-become-proficient-in-css
+slug: become-proficient-practically-in-css
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/TkZYCXmrKK4/upload/bfdfb23bb027074822083108d10d4772.jpeg
 tags: css3, css, saifur-rahman-mahin
 
