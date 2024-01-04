@@ -10,7 +10,7 @@ tags: css
 
 ---
 
-# 1.0 Selector in CSS
+# 1.Selector in CSS
 
 Becoming an expert in CSS selectors involves understanding and mastering selectors at various levels. Here's a step-by-step guide categorizing them into basic, mid-level, and advanced levels:
 
@@ -160,7 +160,7 @@ Remember, becoming an expert requires hands-on practice and continuously challen
 
 ---
 
-# 2.0 Let's go through examples for each topic
+# 2.Let's go through examples for each topic
 
 Let's go through examples for each topic at the basic, mid-level, and advanced levels:
 
