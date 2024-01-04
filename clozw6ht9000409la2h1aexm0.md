@@ -10,11 +10,11 @@ tags: css
 
 ---
 
-# Selector in CSS
+# 1.0 Selector in CSS
 
 Becoming an expert in CSS selectors involves understanding and mastering selectors at various levels. Here's a step-by-step guide categorizing them into basic, mid-level, and advanced levels:
 
-### Basic Level:
+### 1.1 Basic Level:
 
 #### 1\. **Universal Selector:**
 
@@ -66,7 +66,7 @@ Becoming an expert in CSS selectors involves understanding and mastering selecto
 * `:hover`, `:active`, `:focus`: Selects elements based on user interaction.
     
 
-### Mid-Level:
+### 1.2 Mid-Level:
 
 #### 11\. **Grouping:**
 
@@ -95,7 +95,7 @@ Becoming an expert in CSS selectors involves understanding and mastering selecto
 * `[attribute^=value]`, `[attribute$=value]`, `[attribute*=value]`: Selects elements based on the beginning, end, or containing a specific value in an attribute.
     
 
-### Advanced Level:
+### 1.3 Advanced Level:
 
 #### 16\. **Sibling Combinator:**
 
@@ -147,7 +147,7 @@ Becoming an expert in CSS selectors involves understanding and mastering selecto
 * Leverage CSS variables to create reusable and dynamic selectors.
     
 
-### Practice and Application:
+### 1.4 Practice and Application:
 
 * Apply these selectors in real projects.
     
@@ -160,9 +160,11 @@ Remember, becoming an expert requires hands-on practice and continuously challen
 
 ---
 
+# 2.0 Let's go through examples for each topic
+
 Let's go through examples for each topic at the basic, mid-level, and advanced levels:
 
-### Basic Level:
+### 2.1 Basic Level:
 
 #### 1\. **Universal Selector:**
 
@@ -278,7 +280,7 @@ Let's go through examples for each topic at the basic, mid-level, and advanced l
     ```
     
 
-### Mid-Level:
+### 2.2 Mid-Level:
 
 #### 11\. **Grouping:**
 
@@ -336,7 +338,7 @@ Let's go through examples for each topic at the basic, mid-level, and advanced l
     ```
     
 
-### Advanced Level:
+### 2.3 Advanced Level:
 
 #### 16\. **Sibling Combinator:**
 
@@ -454,7 +456,7 @@ Let's go through examples for each topic at the basic, mid-level, and advanced l
     ```
     
 
-### Practice and Application:
+### 2.4 Practice and Application:
 
 * Apply these selectors in real projects.
     
